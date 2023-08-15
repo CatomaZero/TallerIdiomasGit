@@ -1,0 +1,4 @@
+Taller
+En grupos de 4
+Construir un repositorio “hola mundo”. Cada desarrollador lo desarrollará en cuatro idiomas diferentes y usará su rama específica. 
+Compartir el acceso al repositorio
